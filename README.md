@@ -4,7 +4,7 @@ The question PAPER of BIT MESRA AI LAB can be found as below and the solution fo
 Find the file and simply load in the prolog.
 
 Page 1 - 
-![Alt text](Questions/Question paper page-1?raw=true "Page - 1 Question paper")
+![Alt text](Questions/Question-paper-page-1.jpeg?raw=true "Page - 1 Question paper")
 
 Page 2 - 
-![Alt text](Questions/Question paper page-2?raw=true "Page - 2 Question paper")
+![Alt text](Questions/Question-paper-page-2.jpeg?raw=true "Page - 2 Question paper")
