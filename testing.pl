@@ -1,0 +1,1 @@
+inp(N):-write('Enter n='),nl,read(N),nl.
