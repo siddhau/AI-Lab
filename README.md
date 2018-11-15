@@ -1,3 +1,6 @@
+
+AI LAB ALL PROGRAM DONE TILL END OF LAB --------------__FOR EXAM
+
 # AI-Lab
 AI lab programs Done in PROLOG
 The question PAPER of BIT MESRA AI LAB can be found as below and the solution for the above programs in prolog are given as .pl file.
